@@ -52,13 +52,13 @@
 
     "FORCE_SUB": {
       "description": "Your force sub channel user name without [@] ",
-      "value": "-1002022755818",
+      "value": "@OTT_ARAKAL_THERAVAD_MOVIESS",
       "required": true
     },
 
     "ADMIN": {
       "description": "Add Your User ID multiple is use space to split",
-      "value": "1297128957",
+      "value": "1297128957 5439499666",
       "required": true
     },
 
