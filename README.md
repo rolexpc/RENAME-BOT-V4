@@ -12,7 +12,7 @@
 
 ## Deploy To Render              
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Snowball-0/Sigma-Snow-Bot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/RolexPc/RENAME-BOT-V1)
 
 ## Deploy To Railway
 
@@ -20,7 +20,7 @@
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/Snowball-0/Sigma-Snow-Bot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/RolexPc/RENAME-BOT-V1"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 
 
