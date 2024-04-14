@@ -70,7 +70,7 @@
 
     "DB_URL": {
       "description": "Your Mongo DB URL Obtained From mongodb.com",
-      "value": "mongodb+srv://renamebotv1:renamebotv1@cluster0.6do2rjy.mongodb.net/",
+      "value": "mongodb+srv://renamebotv1:renamebotv1@cluster0.wpytt6b.mongodb.net/",
       "required": true
     },
 
