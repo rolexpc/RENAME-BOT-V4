@@ -48,7 +48,7 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
-├👨‍💻 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚𝙧 : <a href=https://t.me/PCADMINOFFICIALBOT> 𝐏𝐂 </a>
+├👨‍💻 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚𝙧 : <a href=https://www.instagram.com/new_ott__updates?igsh=MTMxcmhwamF4eGp6eg==> 𝑰𝑵𝑺𝑻𝑨𝑮𝑹𝑨𝑴 𝑶𝑻𝑻 𝑳𝑰𝑵𝑲</a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -72,7 +72,7 @@ Exᴀᴍᴩʟᴇ:- <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
 
 
-<b>⦿ Developer:</b> <a href=https://t.me/PCADMINOFFICIALBOT>𝐏𝐂 </a>
+<b>⦿ Developer:</b> <a href=https://www.instagram.com/new_ott__updates?igsh=MTMxcmhwamF4eGp6eg==>𝑰𝑵𝑺𝑻𝑨𝑮𝑹𝑨𝑴 𝑶𝑻𝑻 𝑳𝑰𝑵𝑲 </a>
 """
 
     SEND_METADATA = """
@@ -80,9 +80,9 @@ Exᴀᴍᴩʟᴇ:- <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @PCADMINOFFICIALBOT" -metadata author : @PCADMINOFFICIALBOT" -metadata:s:s title="Subtitled By :- @pcott" -metadata:s:a title="By :- @pcott" -metadata:s:v title="By:- @pcott" </code>
+◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @ARAKAL_THERAVAD_MOVIES_02_bot" -metadata author : @ARAKAL_THERAVAD_MOVIES_02_bot" -metadata:s:s title="Subtitled By :- @ARAKAL_THERAVAD_MOVIES_02_bot" -metadata:s:a title="By :- @ARAKAL_THERAVAD_MOVIES_02_bot" -metadata:s:v title="By:- @ARAKAL_THERAVAD_MOVIES_02_bot" </code>
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @PCADMINOFFICIALBOT
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @ARAKAL_THERAVAD_MOVIES_02_bot
 """
 
     PROGRESS_BAR = """<b>\n
