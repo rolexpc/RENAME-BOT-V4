@@ -20,7 +20,7 @@ async def start(client, message):
         InlineKeyboardButton(
             '❤️‍🔥 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ❤️‍🔥', url='https://t.me/OTT_ARAKAL_THERAVAD_MOVIESS'),
         InlineKeyboardButton(
-            '🔰 𝗠𝗼𝘃𝗶𝗲 𝗚𝗿𝗼𝘂𝗽 🔰', url='https://t.me/ARAKAL_THERAVAD_MOVIES')
+            '🔰 𝗠𝗼𝘃𝗶𝗲 𝗚𝗿𝗼𝘂𝗽 🔰', url='https://t.me/+RPt_Ql1QFJMzNzZl')
     ], [
         InlineKeyboardButton('💡 𝗔𝗯𝗼𝘂𝘁 💡', callback_data='about'),
         InlineKeyboardButton('📱 𝗛𝗲𝗹𝗽 📱', callback_data='help')
@@ -39,7 +39,7 @@ async def rename_start(client, message):
 
     if not Config.STRING_SESSION:
         if file.file_size > 2000 * 1024 * 1024:
-            return await message.reply_text("Sᴏʀʀy Bʀᴏ Tʜɪꜱ Bᴏᴛ Iꜱ Dᴏᴇꜱɴ'ᴛ Sᴜᴩᴩᴏʀᴛ Uᴩʟᴏᴀᴅɪɴɢ Fɪʟᴇꜱ Bɪɢɢᴇʀ Tʜᴀɴ 2Gʙ \n 𝗨𝘀𝗲 : @pcrename4GBbot ")
+            return await message.reply_text("Sᴏʀʀy Bʀᴏ Tʜɪꜱ Bᴏᴛ Iꜱ Dᴏᴇꜱɴ'ᴛ Sᴜᴩᴩᴏʀᴛ Uᴩʟᴏᴀᴅɪɴɢ Fɪʟᴇꜱ Bɪɢɢᴇʀ Tʜᴀɴ 2Gʙ \n 𝗨𝘀𝗲 : @ARAKAL_THERAVAD_GROUP_LINKS ")
 
     try:
         text = f"""**__What do you want me to do with this file.?__**\n\n**File Name** :- `{filename}`\n\n**File Size** :- `{filesize}`"""
