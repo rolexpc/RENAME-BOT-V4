@@ -27,8 +27,7 @@
     },
 
     "BOT_TOKEN": {
-      "description": "Your Bot Token From @BotFather",
-      "value": "6833466142:AAGVtyol_JHuTU_UCk_mKuVOTt3tUgfrijA",
+      "description": "Your Bot Token From @BotFather",      
       "required": true
     },
 
