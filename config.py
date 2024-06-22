@@ -9,7 +9,7 @@ class Config(object):
     # pyro client config
     API_ID = os.environ.get("API_ID", "12618934")  # ⚠️ Required
     API_HASH = os.environ.get("API_HASH", "49aacd0bc2f8924add29fb02e20c8a16")  # ⚠️ Required
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")  # ⚠️ Required
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7117525430:AAFiv2yS_AtzAn2Kr3HkH1YneHQJBYc3e2M")  # ⚠️ Required
 
     # premium 4g renaming client
     STRING_API_ID = os.environ.get("STRING_API_ID", "")
@@ -17,8 +17,8 @@ class Config(object):
     STRING_SESSION = os.environ.get("STRING_SESSION", "")
 
     # database config
-    DB_NAME = os.environ.get("DB_NAME", "renamebotv1")
-    DB_URL = os.environ.get("DB_URL", "mongodb+srv://renamebotv1:renamebotv1@cluster0.wpytt6b.mongodb.net/")  # ⚠️ Required
+    DB_NAME = os.environ.get("DB_NAME", "Natasha")
+    DB_URL = os.environ.get("DB_URL", "mongodb+srv://Natasha:Natasha@cluster0.7cq5gju.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")  # ⚠️ Required
 
     # other configs
     BOT_UPTIME = time.time()
