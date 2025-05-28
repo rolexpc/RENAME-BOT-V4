@@ -16,8 +16,8 @@ class Config(object):
     STRING_SESSION = os.environ.get("STRING_SESSION", "")
 
     # database config
-    DB_NAME = os.environ.get("DB_NAME", "Natasha")
-    DB_URL = os.environ.get("DB_URL", "mongodb+srv://Natasha:Natasha@cluster0.7cq5gju.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")  # ⚠️ Required
+    DB_NAME = os.environ.get("DB_NAME", "sree")
+    DB_URL = os.environ.get("DB_URL", "mongodb+srv://sree:sree@cluster0.vxbpd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")  # ⚠️ Required
 
     # other configs
     BOT_UPTIME = time.time()
