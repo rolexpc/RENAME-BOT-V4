@@ -24,10 +24,10 @@ class Config(object):
     BOT_UPTIME = time.time()
     START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/1e9f0748931102b81caa3.jpg")
     ADMIN = [int(admin) if id_pattern.search(
-        admin) else admin for admin in os.environ.get('ADMIN', '1297128957').split()]  # ⚠️ Required
+        admin) else admin for admin in os.environ.get('ADMIN', '7425490417 8050568154').split()]  # ⚠️ Required
     
     FORCE_SUB = os.environ.get("FORCE_SUB", "OTT_ARAKAL_THERAVAD_MOVIESS") # ⚠️ Required Username without @
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002116152617"))  # ⚠️ Required
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002276401285"))  # ⚠️ Required
     FLOOD = int(os.environ.get("FLOOD", '10'))
     BANNED_USERS = set(int(x) for x in os.environ.get(
         "BANNED_USERS", "1234567890").split())
